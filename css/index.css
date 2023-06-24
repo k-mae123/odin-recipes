@@ -1,0 +1,27 @@
+body {
+    background-color: #453858;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#recipe-card {
+    margin: 50px;
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.recipe-list {
+    background-color: white;
+    border: #453858;
+}
+
+h1.title {
+    color: white;
+    border: 2px solid;
+    margin: 50px;
+    background-color: #453858;
+    border-radius: 30px;
+    padding:30px;
+
+}

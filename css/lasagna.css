@@ -1,0 +1,51 @@
+body {
+    background-color:   #6c6c6b;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    
+}
+
+.title {
+    text-align: center;
+    background-color: white;
+    color: #6c6c6b;
+    border-radius: 20px;
+    margin: 50px;
+    padding: 20px;
+
+}
+
+.recipe-card {
+    margin: 50px;
+    padding: 20px;
+    width: auto;
+    height: max-content;
+}
+
+img {
+    display: inline-block;
+    border-radius: 20px;
+    vertical-align: top;
+    
+}
+
+.ingredients,
+.steps      {
+    display: inline-block;
+    float: right;
+
+}
+
+#section1,
+#section2 {
+    align-items: center;
+    display: block;
+    margin: 70px;
+    padding: 30px 50px;
+
+   
+}
+
+.source {
+    text-align: center;
+}
